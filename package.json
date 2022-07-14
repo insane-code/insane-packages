@@ -1,0 +1,25 @@
+{
+  "name": "insane-packages",
+  "version": "1.0.0",
+  "description": "Landing page for my larael packages",
+  "main": "index.js",
+  "scripts": {
+      "docs:dev": "vitepress dev docs",
+      "docs:build": "vitepress build docs",
+      "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insane-code/insane-packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insane-code/insane-packages/issues"
+  },
+  "homepage": "https://github.com/insane-code/insane-packages#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
