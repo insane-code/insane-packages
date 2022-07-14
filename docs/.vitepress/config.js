@@ -12,11 +12,11 @@ const config = {
       nav: [
         { text: 'Guide', link: '/guide' },
       {
-        text: 'Dropdown Menu',
+        text: 'Packages',
         items: [
-          { text: 'Insane/Journal', link: '/journal/index' },
-          { text: 'Insane/Treasurer', link: '/teasurer/index' },
-          { text: 'Insane/Atmosphere', link: '/atmosphere/index' }
+          { text: 'Journal', link: '/journal/index' },
+          { text: 'Treasurer', link: '/teasurer/index' },
+          { text: 'Atmosphere', link: '/atmosphere/index' }
         ]
       }
       ],
