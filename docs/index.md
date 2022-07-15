@@ -5,7 +5,7 @@ hero:
     text: Building the atmosphere.
     tagline: Packages for atmosphere ecosystem and Laravel
     image:
-      src: https://avatars.githubusercontent.com/u/27869563?s=400&u=3736c3fea084da9b9af96a6588ed4cfc3dd848e2&v=4
+      src: ./.vitepress/assets/img/shadow-logo.svg
       alt: insane packages Logo
     actions:
     - theme: brand

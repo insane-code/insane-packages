@@ -1,6 +1,6 @@
 import Theme from 'vitepress/theme'
-import '../style/main.css'
-import '../style/vars.css'
+import '../assets/style/main.css'
+import '../assets/style/vars.css'
 
 export default {
   ...Theme,
